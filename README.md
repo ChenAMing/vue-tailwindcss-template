@@ -8,6 +8,9 @@
 - prettier
 - prettier-plugin-tailwindcss
 - @types/node
+- vue-router
+- pinia
+- jsx 支持
 
 ## 已配置
 
